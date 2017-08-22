@@ -1,0 +1,12 @@
+{
+	"name" : "VizplumTextObject",
+	"description": "Basic text object with few added functionalities",
+	"icon": "text",
+	"preview": "Vizplum.jpg",
+	"type": "visualization",
+	"version": "1.0.0",
+	"author": "Ravisankar Avidi from Vizplum Corporation",
+	"dependencies": {
+		"qlik-sense": ">=1.0.x"
+	}
+}
