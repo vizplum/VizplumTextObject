@@ -7,6 +7,6 @@
 	"version": "1.0.0",
 	"author": "Ravisankar Avidi from Vizplum Corporation",
 	"dependencies": {
-		"qlik-sense": ">=1.0.x"
+		"qlik-sense": ">=2.1.x"
 	}
 }
